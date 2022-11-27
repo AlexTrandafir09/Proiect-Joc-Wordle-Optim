@@ -1,2 +1,2 @@
-# Proiect Joc Wordle Optim
+![img.png](img.png)# Proiect Joc Wordle Optim
  
