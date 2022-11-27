@@ -3,7 +3,6 @@ L=[]
 for x in (open("cuvinte_wordle.txt","r")).read().strip().split():
     L.append(x)
 cuv_corect=random.choice(open('cuvinte_wordle.txt').read().split())
-# cuv_corect="ATOMI"
 print(cuv_corect)
 ok=0
 nrcuvant=0
